@@ -23,7 +23,7 @@ The application utilizes advanced file handling to fetch city and road data from
   <img src="Screenshorts/reachability.png" width="45%" alt="Minimum Spanning Tree" />
 </p>
 
-> **Note:** Ensure the image names in the `Screenshorts/` folder match the names used in the code above (e.g., `menu.png`, `route.png`).
+> **Note:** All images are in the `Screenshorts/` folder.
 
 ## 📊 Graph Architecture
 The project is built using a custom graph implementation:
