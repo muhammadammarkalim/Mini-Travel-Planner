@@ -14,8 +14,8 @@ The application utilizes advanced file handling to fetch city and road data from
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="Screenshorts/Dashboard.png" width="45%" alt="Main Menu" />
-  <img src="Screenshorts/Plan Route.png" width="45%" alt="Pathfinding Result" />
+  <img src="Screenshorts/dashboard.png" width="45%" alt="Main Menu" />
+  <img src="Screenshorts/Route.png" width="45%" alt="Pathfinding Result" />
 </p>
 
 <p align="center">
