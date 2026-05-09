@@ -14,13 +14,13 @@ The application utilizes advanced file handling to fetch city and road data from
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="Screenshorts/menu.png" width="45%" alt="Main Menu" />
-  <img src="Screenshorts/route.png" width="45%" alt="Pathfinding Result" />
+  <img src="Screenshorts/Dashboard.png" width="45%" alt="Main Menu" />
+  <img src="Screenshorts/Plan Route.png" width="45%" alt="Pathfinding Result" />
 </p>
 
 <p align="center">
-  <img src="Screenshorts/database.png" width="45%" alt="City Database View" />
-  <img src="Screenshorts/mst.png" width="45%" alt="Minimum Spanning Tree" />
+  <img src="Screenshorts/Database.png" width="45%" alt="City Database View" />
+  <img src="Screenshorts/reachability.png" width="45%" alt="Minimum Spanning Tree" />
 </p>
 
 > **Note:** Ensure the image names in the `Screenshorts/` folder match the names used in the code above (e.g., `menu.png`, `route.png`).
