@@ -1,0 +1,18 @@
+# Pakistan Travel Planner - Road Dataset
+# Format: CityA CityB DistanceKm Safety(1-10) Scenic(1-10) Adventure(1-10)
+Lahore Islamabad 375 8 7 5
+Islamabad Peshawar 170 6 9 8
+Islamabad Murree 60 7 10 9
+Lahore Multan 340 9 6 4
+Multan Sukkur 410 6 5 3
+Sukkur Karachi 480 7 4 3
+Karachi Hyderabad 160 7 6 4
+Peshawar Chitral 320 5 10 10
+Islamabad Gilgit 590 4 10 10
+Lahore Faisalabad 130 9 5 3
+Faisalabad Sargodha 90 9 5 3
+Multan Bahawalpur 100 8 5 3
+Quetta Sukkur 560 5 7 6
+Quetta Karachi 700 5 6 5
+Gilgit Skardu 200 3 10 10
+DG khan Islamabad' 10000 3 3 5
