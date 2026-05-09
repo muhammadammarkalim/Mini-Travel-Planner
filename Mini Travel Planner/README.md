@@ -14,14 +14,11 @@ The application utilizes advanced file handling to fetch city and road data from
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="Screenshorts/dashboard.png" width="45%" alt="Main Menu" />
+  <img src="Screenshorts/dashboard.png" width="45%" alt="Main Menu" /> <br>
   <img src="Screenshorts/Route.png" width="45%" alt="Pathfinding Result" />
 </p>
 
-<p align="center">
-  <img src="Screenshorts/Database.png" width="45%" alt="City Database View" />
-  <img src="Screenshorts/reachability.png" width="45%" alt="Minimum Spanning Tree" />
-</p>
+
 
 > **Note:** All images are in the `Screenshorts/` folder.
 
